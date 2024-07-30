@@ -1,3 +1,5 @@
+<img src="https://www.careerguide.com/career/wp-content/uploads/2020/02/cs-an.gif">
+
 <h1 align="center">Hi 👋, I'm Tripurari Kumar</h1>
 <h3 align="center">A passionate MERN Stack Web Developer from India</h3>
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="450px" align="right">
